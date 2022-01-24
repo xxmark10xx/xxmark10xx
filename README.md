@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @xxmark10xx
-- 👀 I’m interested in backend software enggineering.
-- 🌱 I’m currently learning C#
+- 👋 Hi, I’m Mark Aguilar
+- 👀 I’m interested in Full Stack Web Developer.
+- 🌱 I’m currently learning HTML, JavaScript, CSS
 - 💞️ I’m looking to collaborate on more projects about advanced robotics and Artificial Intelligence. 
 - 📫 How to reach me - mark.a.aguilar99@gmail.com
 
